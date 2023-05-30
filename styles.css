@@ -1,0 +1,24 @@
+ {
+    border: 2px solid black;
+}
+
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    background-color:  #1F2937;
+}
+
+.logo {
+  flex-grow: 1;
+}
+
+
+
+.logoimg {
+    width: auto;
+    height: 100px;
+}
+
