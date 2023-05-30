@@ -38,6 +38,7 @@ a {
     background-color: #1F2937;
     color: white;
     font-weight: bold;
+    flex-wrap: wrap;
 }
 
 button {
@@ -90,4 +91,14 @@ button {
 
 .block-three {
     background-color: #E5E7EB ;
+    padding: 80px;
+}
+
+.textb3 {
+    text-align: center;
+}
+
+.textb3title {
+    text-align: center;
+    margin-left: 480px;
 }
